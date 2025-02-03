@@ -1,21 +1,29 @@
-BPCL Chatbot AI 🤖
-A smart AI-powered chatbot designed to answer BPCL-related FAQs using NLP and machine learning.
+# **BPCL Chatbot AI 🤖**  
+A smart AI-powered chatbot designed to answer BPCL-related FAQs using NLP and machine learning.  
 
+---
 
-🚀 Live Demo: BPCL Chatbot AI
+## 🚀 **Live Demo**  
+[BPCL Chatbot AI](https://monalisas21-chatbot-chatbotbpcl-3xfjud.streamlit.app/)  
 
-🔹 Features
-✅ AI-based FAQ answering system
-✅ Built with Streamlit for an interactive UI
-✅ Uses Natural Language Processing (NLP) to understand user queries
-✅ Trained on BPCL FAQ dataset
-✅ Deployed on Streamlit Cloud
+---
 
-🔹 Tech Stack
-Python 🐍
-Streamlit 🎨 (Frontend)
-Pandas 📊 (Data handling)
-Torch 🔥 (ML framework)
-NLTK / SpaCy 🗣 (NLP processing)
+## 🔹 **Features**  
+✅ AI-based FAQ answering system  
+✅ Built with **Streamlit** for an interactive UI  
+✅ Uses **Natural Language Processing (NLP)** to understand user queries  
+✅ Trained on **BPCL FAQ dataset**  
+✅ Deployed on **Streamlit Cloud**  
 
-🔥 Made with ❤️ by Monalisa Sharma🔥
+---
+
+## 🔹 **Tech Stack**  
+- **Python** 🐍  
+- **Streamlit** 🎨 (Frontend)  
+- **Pandas** 📊 (Data handling)  
+- **Torch** 🔥 (ML framework)  
+- **NLTK / SpaCy** 🗣 (NLP processing)  
+
+---
+
+🔥 **Made with ❤️ by Monalisa Sharma** 🔥  
