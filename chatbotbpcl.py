@@ -26,7 +26,7 @@ st.title("BharatGas Services FAQ Chatbot")
 # pip install streamlit sentence-transformers torch pandas 
 
 # ✅ Check if the CSV file exists before loading
-file_path = "BPCL_FAQ_Dataset.csv"
+file_path = "bpcl_chatbot_newdataset.csv"
 
 if not os.path.exists(file_path):
     st.error(f"Error: The file '{file_path}' was not found. Please check the file path.")
