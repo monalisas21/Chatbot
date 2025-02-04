@@ -20,7 +20,7 @@ import pandas as pd
 import torch
 from sentence_transformers import SentenceTransformer, util
 
-st.title("BPCL FAQ Chatbot")
+st.title("BharatGas Services FAQ Chatbot")
 
 # ✅ Remove `!pip install` commands. Instead, install dependencies manually before running:
 # pip install streamlit sentence-transformers torch pandas 
