@@ -26,4 +26,4 @@ A smart AI-powered chatbot designed to answer BPCL-related FAQs using NLP and ma
 
 ---
 
-🔥 **Made with ❤️ by Monalisa Sharma** 🔥  
+🔥 **Made by Monalisa Sharma** 🔥  
