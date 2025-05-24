@@ -1,5 +1,5 @@
 # **BPCL Chatbot AI 🤖**  
-A smart AI-powered chatbot designed to answer BPCL-related FAQs using NLP and machine learning.  
+A smart AI-powered chatbot designed to answer BPCL-related using NLP and machine learning.  
 
 ---
 
